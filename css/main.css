@@ -27,7 +27,13 @@
 
 	1. BASE (@base) - base html elements
 
-    -------------------------------------------- */
+	-------------------------------------------- */
+
+#showreel:hover {
+	background-color:#e74c3c;
+}	
+
+
     /* ----- Typist ----- */  
     .selectedText {
       background: #f00;
