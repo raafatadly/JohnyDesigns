@@ -994,7 +994,7 @@ html .process img {
             position: absolute; top: 0; left: 0; width: 0; height: 100%; background: #345; border-radius: 16px; -webkit-transition: width 1s ease-out; transition: width 1s ease-out;
 			}
          .skill-unit .bar .progress span {
-         	 position: absolute; top: -11px; left: 100%; margin-left: -28px; font-size: 10px; font-weight: bold; text-align: center; min-width: 28px; line-height: 18px; padding: 0; border: 1px solid #345; border-radius: 8px; background: #fff;
+         	 position: absolute; top: -10px; left: 100%; margin-left: -28px; font-size: 10px; font-weight: bold; text-align: center; min-width: 28px; line-height: 18px; padding: 0; border: 1px solid #345; border-radius: 8px; background: #fff;
 			   }
 
 /* TESTIMONIAL */
