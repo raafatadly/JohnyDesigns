@@ -32,7 +32,9 @@
 #showreel:hover {
 	background-color:#e74c3c;
 }	
-
+#game:hover {
+	background-color:green;
+}
 
     /* ----- Typist ----- */  
     .selectedText {
