@@ -139,7 +139,17 @@ function draw(){
         go.style.left = "10%";
         go.style.zIndex = "1";
         go.style.fontSize = "45px";
+
+        const alert = document.getElementById("Trybtn");
+        alert.style.display = "block";
+        alert.style.position = "absolute";
+        alert.style.top = "30%";
+        alert.style.left = "13%";
+        alert.style.zIndex = "1";
+        alert.style.width = "150px";
+        alert.style.height = "40px";
     }
+  
 
     snake.unshift(newHead);
 
